@@ -10,7 +10,9 @@
       "volume": "",
       "last_updated": "1676840280",
       "groups": {
-        "": "/proxy/api/imgur/chapter/28CtilD"
+        "": [
+          "https://imgur.com/a/28CtilD"
+        ]
       }
     }
   }
